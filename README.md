@@ -173,7 +173,7 @@ server: # REST and WS server
 
 ```json
 {
-  "host": "lavalink.LucasB25.repl.co",
+  "host": "lavalink.dawgcodes.repl.co",
   "password": "youshallnotpass",
   "port": 443,
   "identifier": "lavalink v4",     
